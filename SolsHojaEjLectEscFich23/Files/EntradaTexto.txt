@@ -1,0 +1,7 @@
+Podemos realizar varias acciones con un fichero:
+- Creación del fichero
+- Apertura del fichero: para poder operar sobre él
+- Cierre del fichero: cuando termina de usarlo (así evitamos dejar recursos
+abiertos)
+- Lectura de los datos del fichero: lectura completa o consultas puntuales
+- Escritura en el fichero: añadir información, eliminar información, modificar
